@@ -23,7 +23,7 @@ Ademas, en consola verá un detalle de los valores que fue tomando cada objeto, 
 PARA QUE EL CODIGO CONTINÚE EJECUTANDOSE, SOLO DEBE CERRAR LA VENTANA Y CONTINUARÁ CON LA SIGUIENTE
 
 # Estructura Problema 1) - monedas.py
-La carpeta "monedas" contiene la imagen a ser analizada: "monedas.jpg" y el código principal "monedas.py"
+La carpeta "monedas" contiene la imagen a ser analizada: "monedas.jpg" y el código principal "monedas.py".
 Debe mantener la estructura de la carpeta tal como está e incluso mantener el nombre del archivo para ser analizado.
 
 # Estructura Problema 2) - patentes.py
