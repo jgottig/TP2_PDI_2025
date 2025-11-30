@@ -20,8 +20,8 @@ Para su ejecución, Abrir su IDE Favorito. En algunos casos recomendamos que uti
 Para su ejecución, solo debe dar "Play" en su IDE, RUN, o bien ejecutar el código principal por consola.
 A medida que el codigo se va ejecutando, se irá abriendo una ventana mostrando el paso actual (Umbralado / Modificaciones Morfológicas / Segmentaciones, etc)
 Ademas, en consola verá un detalle de los valores que fue tomando cada objeto, junto con su conteo de unidades, valores, segmentaciones etc.
-PARA QUE EL CODIGO CONTINÚE EJECUTANDOSE, SOLO DEBE CERRAR LA VENTANA Y CONTINUARÁ CON LA SIGUIENTE
-
+**PARA QUE EL CODIGO CONTINÚE EJECUTANDOSE, SOLO DEBE CERRAR LA VENTANA Y CONTINUARÁ CON LA SIGUIENTE
+**
 # Estructura Problema 1) - monedas.py
 La carpeta "monedas" contiene la imagen a ser analizada: "monedas.jpg" y el código principal "monedas.py".
 Debe mantener la estructura de la carpeta tal como está e incluso mantener el nombre del archivo para ser analizado.
